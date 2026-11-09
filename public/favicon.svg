@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="qrGradFav" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E40AF" />
+      <stop offset="50%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="28" fill="#0F172A" />
+  <rect x="22" y="22" width="28" height="28" rx="7" fill="none" stroke="url(#qrGradFav)" stroke-width="5" />
+  <rect x="30" y="30" width="12" height="12" rx="3" fill="#38BDF8" />
+  <rect x="70" y="22" width="28" height="28" rx="7" fill="none" stroke="url(#qrGradFav)" stroke-width="5" />
+  <rect x="78" y="30" width="12" height="12" rx="3" fill="#38BDF8" />
+  <rect x="22" y="70" width="28" height="28" rx="7" fill="none" stroke="url(#qrGradFav)" stroke-width="5" />
+  <rect x="30" y="78" width="12" height="12" rx="3" fill="#38BDF8" />
+  <rect x="58" y="36" width="6" height="12" rx="2" fill="#FFFFFF" />
+  <rect x="56" y="56" width="10" height="10" rx="3" fill="url(#qrGradFav)" />
+  <rect x="76" y="76" width="14" height="14" rx="4" fill="#38BDF8" />
+</svg>

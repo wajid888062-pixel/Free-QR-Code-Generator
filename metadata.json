@@ -1,0 +1,6 @@
+{
+  "name": "QRcraft - Free Professional QR Code Generator",
+  "description": "Generate, customize and download 100% free high-resolution QR codes for URLs, Wi-Fi, vCard, WhatsApp, SMS, email, and social media with custom colors, logos, and vector export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
